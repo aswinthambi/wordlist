@@ -5,3 +5,4 @@ cgi-bin/reset.cgi?db_prefix=%26id%26
 /home/000~ROOT~000/
 /.git/
 /.git/config
+/info.php
